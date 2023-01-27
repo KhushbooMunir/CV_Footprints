@@ -1,4 +1,4 @@
-# CV_Footprints
+# Neonatals_Growth_Detection_using_Deep_Learning
 To detect the footprints from a skin extracted image for this project I used two models for training purpose. One to extract the foot from images and second one is to extract the edges details.
 
 ![GitHub Logo](/Images/test/1.jpeg)
